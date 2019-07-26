@@ -81,4 +81,4 @@ deploy:
   type: git
   repo: https://github.com/jzYuchn/jzYuchn.github.io.git
   branch: master
-  message: 修改jquery地址https
+  message: 
